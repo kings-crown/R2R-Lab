@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff
+category: Faculty
 title: Yeganeh Hayeri
 image: researcher.png
 role: Lab Director
