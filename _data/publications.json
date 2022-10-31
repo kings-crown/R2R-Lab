@@ -41,7 +41,7 @@
 
 	
 	{
-		"id": "https://zbib.org/316d3af397dd4717a5fcf3bf0beb8fcd"	
+		"id": "https://zbib.org/316d3af397dd4717a5fcf3bf0beb8fcd",	
 		"type": "article-journal",
 		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
 		"container-title": "IEEE Transactions on Medical Imaging",
