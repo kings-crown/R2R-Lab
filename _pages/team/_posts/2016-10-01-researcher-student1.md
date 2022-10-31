@@ -3,7 +3,7 @@ layout: member
 category: PostDoc
 title: Researcher Name
 image: researcher.png
-role: PhD Student
+role: PostDoc
 permalink: 'team/researcher-name'
 social:
     twitter: https://twitter.com/
