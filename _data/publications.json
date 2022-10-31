@@ -37,37 +37,38 @@
 			]
 		}
 	}
+
+
+
+	{
+	  "id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
+	  "type": "CONFERENCE PROCEEDING",
+	  "title": "A Discrete-Time Simulation Model for New York City Bike-Share System",,
+	  "issue": "2",
+	  "source": "ASCE Library",
+	  "abstract": "Travel behavior and mode choice are closely related to how travel demand is addressed. Those who choose to use a bike-share system rely on the availability of a bike when they arrive at a station. This study simulates the existing NYC bike-share program to estimate customers’ wait time and the number of daily bike trips as performance measures. A truck fleet service is added to the simulation environment to transfer the bikes from the high-demand to low-demand stations as a performance improvement strategy. A 24-h simulation reveals that for 65,000 daily bike trips, on average, a user waits half a minute to pick up a bike and 1.5 min to find a vacant return spot. As a result, about 6% of customers change their minds using the program due to the longer than expected wait time. The results show that with a 10-truck fleet as an optimal number of trucks, the wait time reduces by 72%, while the number of daily trips increases by 2.4%. The simulation results, along with a benefit-cost analysis, help balance supply and demand efficiently while improving customer service satisfaction.",
+	  "DOI": "10.1061/9780784484340.001",
+	  "author": [
+	    {
+	      "family": "Behrooz",
+	      "given": "Hojat"
+	    },
+	    {
+	      "family": "Hayeri",
+	      "given": "Yeganeh M"
+	    },
+	    {
+	      "family": "Grogan",
+	      "given": "Paul T"
+	    },
+
+	  ],
+	  "issued": {
+	    "date-parts": [
+	      [
+		"2022"
+	      ]
+	    ]
+	  }
+	}
 ]
-
-
-{
-  "id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
-  "type": "CONFERENCE PROCEEDING",
-  "title": "A Discrete-Time Simulation Model for New York City Bike-Share System",,
-  "issue": "2",
-  "source": "ASCE Library",
-  "abstract": "Travel behavior and mode choice are closely related to how travel demand is addressed. Those who choose to use a bike-share system rely on the availability of a bike when they arrive at a station. This study simulates the existing NYC bike-share program to estimate customers’ wait time and the number of daily bike trips as performance measures. A truck fleet service is added to the simulation environment to transfer the bikes from the high-demand to low-demand stations as a performance improvement strategy. A 24-h simulation reveals that for 65,000 daily bike trips, on average, a user waits half a minute to pick up a bike and 1.5 min to find a vacant return spot. As a result, about 6% of customers change their minds using the program due to the longer than expected wait time. The results show that with a 10-truck fleet as an optimal number of trucks, the wait time reduces by 72%, while the number of daily trips increases by 2.4%. The simulation results, along with a benefit-cost analysis, help balance supply and demand efficiently while improving customer service satisfaction.",
-  "DOI": "10.1061/9780784484340.001",
-  "author": [
-    {
-      "family": "Behrooz",
-      "given": "Hojat"
-    },
-    {
-      "family": "Hayeri",
-      "given": "Yeganeh M"
-    },
-    {
-      "family": "Grogan",
-      "given": "Paul T"
-    },
-
-  ],
-  "issued": {
-    "date-parts": [
-      [
-        "2022"
-      ]
-    ]
-  }
-}
