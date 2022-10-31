@@ -1,6 +1,6 @@
 ---
 layout: member
-category: student
+category: Post Doc student
 title: Researcher Name
 image: researcher.png
 role: PostDoc
