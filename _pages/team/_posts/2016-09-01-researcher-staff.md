@@ -4,7 +4,7 @@ category: Faculty
 title: Dr. Yeganeh Hayeri
 image: researcher.png
 role: Lab Director
-permalink: 'team/Dr. Yeganeh Hayeri'
+permalink: 'team/Yeganeh Hayeri'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
