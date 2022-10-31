@@ -4,7 +4,7 @@ category: staff
 title: Yeganeh Hayeri
 image: researcher.png
 role: Lab Director
-permalink: 'team/researcher-name'
+permalink: 'team/Yeganeh-Hayeri'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
