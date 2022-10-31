@@ -33,10 +33,11 @@ permalink: /team/
 </div>
 {% endfor %}
 
-<!-- Students -->
 
-<h2><a id="student"></a>Students</h2>
-{% assign members = site.posts | where: 'category', 'student' | sort: 'date' %}
+<!-- Post Doc student -->
+
+<h2><a id="Post Doc student"></a>Post Doc student</h2>
+{% assign members = site.posts | where: 'category', 'Post Doc student' | sort: 'date' %}
 {% for member in members %}
 <div class="card team-member-card">
     <div class="row mt-3">
@@ -60,10 +61,10 @@ permalink: /team/
 {% endfor %}
 
 
-<!-- Post Doc student -->
+<!-- Students -->
 
-<h2><a id="Post Doc student"></a>Post Doc student</h2>
-{% assign members = site.posts | where: 'category', 'Post Doc student' | sort: 'date' %}
+<h2><a id="student"></a>Students</h2>
+{% assign members = site.posts | where: 'category', 'student' | sort: 'date' %}
 {% for member in members %}
 <div class="card team-member-card">
     <div class="row mt-3">
