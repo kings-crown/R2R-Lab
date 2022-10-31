@@ -1,7 +1,7 @@
 ---
 layout: member
 category: staff
-title: Researcher Name
+title: Yeganeh Hayeri
 image: researcher.png
 role: Lab Director
 permalink: 'team/researcher-name'
