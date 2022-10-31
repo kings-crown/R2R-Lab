@@ -1,10 +1,10 @@
 ---
 layout: member
-category: student
-title: Researcher Name
+category: Faculty
+title: Hojat Behrooz
 image: researcher.png
-role: PhD Student
-permalink: 'team/researcher-name'
+role: Data Scientist
+permalink: 'team/hojat-behrooz'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
